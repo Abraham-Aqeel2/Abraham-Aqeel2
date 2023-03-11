@@ -1,12 +1,13 @@
 <h1> I'M ABRAHAM <h1/>
- 
+<br> 
+<p> I am a Front End / Full Stack Web Developer with 3+ years of experience building web Development.<p/>
  
  
 <h1> ABOUT ME <h1/>
  
-🔭 I’m currently working as a Freelancer.
+<p> 🔭 I’m currently working as a Freelancer. <p/>
 
-🌱 I’m currently learning Data Science,AWS,Data Engineering
+<p> 🌱 I’m currently learning Data Science,AWS,Data Engineering <p/>
 
-💬 Talk to me about Frontend Development, JavaScript, React.js ,Php, Open Source
+<p> 💬 Talk to me about Frontend Development, JavaScript, React.js ,Php, Open Source <p/>
 
